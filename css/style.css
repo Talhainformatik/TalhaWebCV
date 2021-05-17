@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+   color: #40514E;
+}
+h1{
+    margin: 50px auto 0px auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive ;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+hr{
+    border: solid 8px; 
+    color: #EAF6F6;
+    border-bottom: none;
+    width: 100%;
+    margin: 100px auto;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+}
+.top{
+    background-color: #EAF6F6;
+    position: relative;
+    padding: 100px;
+}
+.FrontEnd{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+}
+.Developer{
+    width: 20%;
+    left:500px;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.copy-right{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.top-cloud{
+    position: absolute;
+    top: 40px;
+    right: 300px;
+}
+
+p{
+    line-height: 2;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.dp{
+    width: 25%;
+
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.html{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.css{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.js{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.php{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.middle-container{
+    margin: 100px 0;
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+
+}
+.footor-link{
+    color: #11999E;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn
+{color: rgb(255, 230, 230);
+font-size: 20px;
+padding: 19px;
+text-shadow: 0px -35px 16px rgba(16, 131, 58, 0.51);
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+background:  #11999E;
+background:  #11999E;
+background: #11999E;
+background:  #11999E;
+background:  #11999E;
+background:  #11999E;
+-webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+}
+.top-certificate{
+    color: aqua;
+}
